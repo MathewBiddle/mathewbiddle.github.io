@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Mathew Biddle
+  tagline: Physical Scientist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: mathew.biddle@noaa.gov
+  phone: 
+  timezone: America/New York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://mathewbiddle.github.io/ # Include the full website URL, including "http://" or "https://".
+  linkedin: 
+  xing: 
+  github: mathewbiddle
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: '' # Specify your full Bluesky handle
+  twitter: ''
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,9 +40,6 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
     - idiom: Spanish
       level: Professional
 
@@ -52,12 +49,10 @@ sidebar:
     - item: Climbing
       link:
 
-
     - item: Snowboarding
       link:
 
-
-    - item: Cooking
+    - item: Surfing
       link:
 
 
@@ -73,35 +68,26 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Physical Oceanography
+    university: University of Maryland Center for Environmental Science (UMCES)
+    time: 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Thesis: Modeling impacts of submersed aquatic vegetation on sediment dynamics under storm conditions in upper Chesapeake Bay.
+        - https://doi.org/10.1007/s12237-021-00941-2
+  - degree: BSc in Oceanography, minor in Applied Mathematics
+    university: Humboldt State University
+    time: 2010
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Thesis: Modeling beach erosion/accretion in northern California.
+        - Relevant coursework: Calculus I, II, III (MATH109, 110, 210), General Physics I: Mechanics (PHYX109), General Physics II: Electricity, Heat (PHYX110), Physical Oceanography (OCN320), Ordinary Differential Equations (MATH313), Introduction to Mathematical Modeling (MATH361)
+
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Physical Scientist
+    time: 2022 - Present
+    company: National Oceanic and Atmospheric Administration (IOOS)
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -114,111 +100,209 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Data Management Analyst
+    time: 2020 - 2022
+    company: Integrated Systems Solutions (contractor for NOAA)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Data Management and Cyberinfrastructure, Team Member
+      •	Lead monthly webinars with the IOOS community.
+      •	Direct and execute 4-day Code Sprint, hackathon style event.
+      •	Plan, coordinate, and execute annual DMAC meetings.
+
+      Regional Association (RA) data archival at NCEI, Project Lead
+      •	Coordinate RA data archiving with the National Centers for Environmental Information (NCEI).
+      •	Communicate with RA's to clearly describe the requirements to archive data.
+      •	Identify IOOS RA datasets for archive at NCEI.
+      •	Develop a renewal to the Service Level Agreement between NCEI and IOOS.
+
+      IOOS MBON DMAC, Working Group Lead
+      •	Act as IOOS Marine Biodiversity Observation Network (MBON) Data Portal and biological data and products liaison.
+      •	Develop resources and documentation for IOOS approach to biological data management.
+      •	Lead MBON Data Management and Cyberinfrastructure (DMAC) working group.
+      •	Coordinate and lead monthly working group meetings.
+      •	Represent IOOS at various data management and cyberinfrastructure working groups and meetings involving local/state/federal stakeholders.
+      •	Participate in the Interagency Ocean Observation Committee (IOOS) Biology - Integrating Core to Essential Variables Task Team. 
+      •	Create content using open source tools, plan, coordinate, and execute 2-day biological data mobilization workshop.
+
+      IOOS CodeLab, Project Lead
+      •	Assist users with integrating IOOS data and services into scientific analyses, software tools, desktop platforms, and other downstream uses.
+      •	Outreach to users to demonstrate open source IOOS tools and platforms, and solicit user requirements for additional access capabilities and functionality.
+
+      Oceanhackweek and Google Summer of Code, Mentor
+      •	Advise students on focused projects related to oceanographic data access and management.
+      •	Lecture on data management topics.
+
+      IOOS DMAC Topic 2 Award, Technical Point of Contact
+      •	Coordinate with Regions, Budget, and Policy Division to ensure financial support is provided.
+      •	Receive and review progress reports for award recipients. 
+
+      NOAA Environmental Data Management Committee Task Team on Digital Object Identifiers, Team Member
+      •	Advise on Digital Object Identifiers for IOOS observations.
+      •	Represent the National Ocean Service and IOOS.
+
+      Quality Assurance for Realtime Oceanographic Observations (QARTOD) Board of Advisors, Board Member
+      •	Attend quarterly meetings and provide expert guidance on QARTOD manuals.
+
+  - role: Information Systems Associate II
+    time: 2017 - 2020
+    company: Woods Hole Oceanographic Institution
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      New data access capability through ERDDAP, Project Lead
+      •	Developed a strategy on how BCO-DMO data managers will interact with the ingest procedure.
+      •	Coordinated with previous data access administrator on approaches for migration.
+      •	Implemented strategies developed during initial feasibility testing.
+      •	Performed metadata enhancements as datasets are loaded.
+      •	Developed robust scripts to perform metadata and data migration into the ERDDAP data server.
+      •	Developed logic to appropriately identify key variables which facilitate enhanced data services.
+      •	Initialized the migration of all biological and chemical data to the ERDDAP data server to improve data access and visualization for the community.
+      •	Successfully rolled out an initial public deployment of ERDDAP by proposed deployment date.
+
+      Ocean time series data management, Project Lead
+      •	Served as the data coordinator for biological and chemical ocean time series data submissions
+      •	Provided guidance to the time series community on data management best practices.
+      •	Strategized through one-on-one meetings to determine best approaches for standardizing datasets.
+      •	Solidified previously developed pathways to automatically harvest new data.
+      
+      Data Manager, Senior Member
+      •	Advised and strategize on approaches to address biological and chemical data management needs.
+      •	Coordinated incoming data submissions by serving as point person.
+      •	Communicated clearly and efficiently with data providers regarding funder’s requirements.
+      •	Stewarded biological and chemical datasets through the data management system.
+      •	Developed, reviewed and updated internal data management documentation.
+      
+      Approach on model submissions to BCO-DMO, Project Lead
+      •	Initialized a strategy for managing submissions consisting of model simulations.
+      •	Collated BCO-DMO’s existing documentation.
+      •	Attended conferences and workshops for community engagement on best practices.
+
+  - role: Faculty Specialist
+    time: 2016 - 2017
+    company: Cooperative Institute for Climate and Satellites, University of Maryland
+    details: |
+      Integrated Ocean Observing System (IOOS) Data Archive Pipeline, Project Lead
+      ●	Coordinated 11 heterogeneous Regional Associations (RA) to achieve automated archival.
+      ●	Managed NCEI and IOOS RA resources.
+      ●	Lead team of specialists to develop an integrated pipeline from RA to NCEI.
+      ●	Conversed with RA’s to clearly describe the requirements to archive data.
+      ●	Identified data sets from IOOS RAs which NCEI will pursue for archiving purposes.
+      ●	Created a NOAA approved Google Site to provide project related information and updates.
+      ●	Documented what products and services NCEI will provide the IOOS RA’s.
+      ●	Developed comprehensive metadata to allow search and discovery of IOOS data though NCEI.
+      ●	Participated in discussions and reviews of Quality Assurance of Real Time Ocean Data (QARTOD) procedures and implementation.
+      
+      IOOS Regional Information Coordination Entity Certification Review Panel, NCEI Reviewer
+      ●	Reviewed certification applications for adherence to NOAA data management best practices.
+      ●	Coordinated a formal response from NCEI.
+      
+      NetCDF Working Group, NCEI NetCDF Template Expert
+      ●	Collaborated with team members in the development of the NODC/NCEI NetCDF Templates.
+      ●	Compiled a code base which facilitates the use of specific features distinguished in the NODC/NCEI NetCDF Templates.
+      ●	Developed a robust background in the Climate and Forecast standards and Attribute Conventions for Dataset Discovery.
+      
+      Surface Unit, Data Management Advisor
+      ●	Provided guidance to unit members regarding archive practices.
+      ●	Compiled the heterogeneous thermosalinograph data contained in the Ocean Archive System.
+      ●	Developed Python code to import and reformat data.
+      
+      Employee Advisory Council, Member
+      ●	Collaborated with team members to provide an avenue for sharing employee ideas and concerns with leadership.
+      ●	Improved the organizational environment of NCEI.
+      ●	Facilitated open lines of communication throughout NCEI.
+      ●	Promoted opportunities to build effective working relationships through social activities.
+      
+      IOOS Ocean Technology Transition Proposal Merit Review, Panelist
+      ●	Reviewed applications for IOOS Ocean Technology Transition grants.
+
+  - role: Faculty Research Assistant
+    time: 2013 - 2016
+    company: Cooperative Institute for Climate and Satellites, University of Maryland
+    details: |
+      Regional Climatology Team, Data Quality Control
+      ●	Performed quality assurance/quality control to produce a regional climatology of salinity for the Gulf of Mexico, Arctic Ocean, and Northwest Atlantic Ocean.
+      ●	Established a rich background in Gulf of Mexico, Arctic Ocean, and Northwest Atlantic Ocean physical processes.
+      ●	Developed a practical knowledge of water profile measurements and meteorological systems.
+      ●	Instituted data visualization scripts for data analysis.
+      ●	Collaborated with other team members.
+      
+      Ocean Observing Team, Data Manager
+      •	Collaborated with other team members.
+      •	Executed processing and archiving of diverse data types.
+      •	Archived observing system data.
+
+  - role: Physical Scientist
+    time: 2010 - 2013
+    company: Earth Resources Technology
+    details: |
+      Archive Management Team, Data Content Manager
+      ●	Correspond with data providers concerning one-off data sets requested to be archived.
+      ●	Documented standard operating procedures for creating, managing and providing access to the archival collections held by NCEI.
+      ●	Expanded knowledge of oceanographic data acquisition and analysis.
+      ●	Executed processing and archiving of diverse data types.
+      ●	Translated data from proprietary formats to openly accessible formats while ensuring data integrity.
+      ●	Organized, combined, and simplified NCEI’s controlled vocabulary tables.
+      ●	Assisted data providers in converting data to more archive preferred data formats. 
+
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
+  - name: Cloud and Infrastructure Community of Practice: Cloud and Data Center Fundamentals 
+    start: 2021
     end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    organization: 
+    credentialid: 
+    credentialurl:
+    credentialname:
+  - name: The Carpentries Instructor
+    start: 2021
+    end: 2021
+    organization: The Carpentries
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: 
 
 projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  # assignments:
+  # - title: Velocity
+  #   link: "#hook"
+  #   tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  # - title: DevStudio
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  # - title: Tempo
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  # - title: Atom
+  #   link: "#"
+  #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  # - title: Tempo
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  # - title: Atom
+  #   link: "#"
+  #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Publications
@@ -226,61 +310,53 @@ publications:
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  # papers:
+  # - title: The Art of Computer Programming
+  #   link: "#"
+  #   authors: Donald E. Knuth
+  #   conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #   link: "#"
+  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  # - title: A syntax directed compiler for Algol 60
+  #   link: "#"
+  #   authors: Edgar T. Irons
+  #   conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
 
-      He is a great employee!
+#       He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Jupyter Notebook
     level: 98%
 
-  - name: Angular
+  - name: R
     level: 98%
 
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
