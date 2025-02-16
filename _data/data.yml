@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Mathew Biddle
   tagline: Physical Scientist
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: https://avatars.githubusercontent.com/u/8480023?v=4 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: mathew.biddle@noaa.gov
@@ -89,159 +89,36 @@ experiences:
     time: 2022 - Present
     company: National Oceanic and Atmospheric Administration (IOOS)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Describe your role here
   - role: Data Management Analyst
     time: 2020 - 2022
     company: Integrated Systems Solutions (contractor for NOAA)
     details: |
-      Data Management and Cyberinfrastructure, Team Member
-      •	Lead monthly webinars with the IOOS community.
-      •	Direct and execute 4-day Code Sprint, hackathon style event.
-      •	Plan, coordinate, and execute annual DMAC meetings.
-
-      Regional Association (RA) data archival at NCEI, Project Lead
-      •	Coordinate RA data archiving with the National Centers for Environmental Information (NCEI).
-      •	Communicate with RA's to clearly describe the requirements to archive data.
-      •	Identify IOOS RA datasets for archive at NCEI.
-      •	Develop a renewal to the Service Level Agreement between NCEI and IOOS.
-
-      IOOS MBON DMAC, Working Group Lead
-      •	Act as IOOS Marine Biodiversity Observation Network (MBON) Data Portal and biological data and products liaison.
-      •	Develop resources and documentation for IOOS approach to biological data management.
-      •	Lead MBON Data Management and Cyberinfrastructure (DMAC) working group.
-      •	Coordinate and lead monthly working group meetings.
-      •	Represent IOOS at various data management and cyberinfrastructure working groups and meetings involving local/state/federal stakeholders.
-      •	Participate in the Interagency Ocean Observation Committee (IOOS) Biology - Integrating Core to Essential Variables Task Team. 
-      •	Create content using open source tools, plan, coordinate, and execute 2-day biological data mobilization workshop.
-
-      IOOS CodeLab, Project Lead
-      •	Assist users with integrating IOOS data and services into scientific analyses, software tools, desktop platforms, and other downstream uses.
-      •	Outreach to users to demonstrate open source IOOS tools and platforms, and solicit user requirements for additional access capabilities and functionality.
-
-      Oceanhackweek and Google Summer of Code, Mentor
-      •	Advise students on focused projects related to oceanographic data access and management.
-      •	Lecture on data management topics.
-
-      IOOS DMAC Topic 2 Award, Technical Point of Contact
-      •	Coordinate with Regions, Budget, and Policy Division to ensure financial support is provided.
-      •	Receive and review progress reports for award recipients. 
-
-      NOAA Environmental Data Management Committee Task Team on Digital Object Identifiers, Team Member
-      •	Advise on Digital Object Identifiers for IOOS observations.
-      •	Represent the National Ocean Service and IOOS.
-
-      Quality Assurance for Realtime Oceanographic Observations (QARTOD) Board of Advisors, Board Member
-      •	Attend quarterly meetings and provide expert guidance on QARTOD manuals.
+      Describe your role here
 
   - role: Information Systems Associate II
     time: 2017 - 2020
     company: Woods Hole Oceanographic Institution
     details: |
-      New data access capability through ERDDAP, Project Lead
-      •	Developed a strategy on how BCO-DMO data managers will interact with the ingest procedure.
-      •	Coordinated with previous data access administrator on approaches for migration.
-      •	Implemented strategies developed during initial feasibility testing.
-      •	Performed metadata enhancements as datasets are loaded.
-      •	Developed robust scripts to perform metadata and data migration into the ERDDAP data server.
-      •	Developed logic to appropriately identify key variables which facilitate enhanced data services.
-      •	Initialized the migration of all biological and chemical data to the ERDDAP data server to improve data access and visualization for the community.
-      •	Successfully rolled out an initial public deployment of ERDDAP by proposed deployment date.
-
-      Ocean time series data management, Project Lead
-      •	Served as the data coordinator for biological and chemical ocean time series data submissions
-      •	Provided guidance to the time series community on data management best practices.
-      •	Strategized through one-on-one meetings to determine best approaches for standardizing datasets.
-      •	Solidified previously developed pathways to automatically harvest new data.
-      
-      Data Manager, Senior Member
-      •	Advised and strategize on approaches to address biological and chemical data management needs.
-      •	Coordinated incoming data submissions by serving as point person.
-      •	Communicated clearly and efficiently with data providers regarding funder’s requirements.
-      •	Stewarded biological and chemical datasets through the data management system.
-      •	Developed, reviewed and updated internal data management documentation.
-      
-      Approach on model submissions to BCO-DMO, Project Lead
-      •	Initialized a strategy for managing submissions consisting of model simulations.
-      •	Collated BCO-DMO’s existing documentation.
-      •	Attended conferences and workshops for community engagement on best practices.
+      Describe your role here
 
   - role: Faculty Specialist
     time: 2016 - 2017
     company: Cooperative Institute for Climate and Satellites, University of Maryland
     details: |
-      Integrated Ocean Observing System (IOOS) Data Archive Pipeline, Project Lead
-      ●	Coordinated 11 heterogeneous Regional Associations (RA) to achieve automated archival.
-      ●	Managed NCEI and IOOS RA resources.
-      ●	Lead team of specialists to develop an integrated pipeline from RA to NCEI.
-      ●	Conversed with RA’s to clearly describe the requirements to archive data.
-      ●	Identified data sets from IOOS RAs which NCEI will pursue for archiving purposes.
-      ●	Created a NOAA approved Google Site to provide project related information and updates.
-      ●	Documented what products and services NCEI will provide the IOOS RA’s.
-      ●	Developed comprehensive metadata to allow search and discovery of IOOS data though NCEI.
-      ●	Participated in discussions and reviews of Quality Assurance of Real Time Ocean Data (QARTOD) procedures and implementation.
-      
-      IOOS Regional Information Coordination Entity Certification Review Panel, NCEI Reviewer
-      ●	Reviewed certification applications for adherence to NOAA data management best practices.
-      ●	Coordinated a formal response from NCEI.
-      
-      NetCDF Working Group, NCEI NetCDF Template Expert
-      ●	Collaborated with team members in the development of the NODC/NCEI NetCDF Templates.
-      ●	Compiled a code base which facilitates the use of specific features distinguished in the NODC/NCEI NetCDF Templates.
-      ●	Developed a robust background in the Climate and Forecast standards and Attribute Conventions for Dataset Discovery.
-      
-      Surface Unit, Data Management Advisor
-      ●	Provided guidance to unit members regarding archive practices.
-      ●	Compiled the heterogeneous thermosalinograph data contained in the Ocean Archive System.
-      ●	Developed Python code to import and reformat data.
-      
-      Employee Advisory Council, Member
-      ●	Collaborated with team members to provide an avenue for sharing employee ideas and concerns with leadership.
-      ●	Improved the organizational environment of NCEI.
-      ●	Facilitated open lines of communication throughout NCEI.
-      ●	Promoted opportunities to build effective working relationships through social activities.
-      
-      IOOS Ocean Technology Transition Proposal Merit Review, Panelist
-      ●	Reviewed applications for IOOS Ocean Technology Transition grants.
+      Describe your role here
 
   - role: Faculty Research Assistant
     time: 2013 - 2016
     company: Cooperative Institute for Climate and Satellites, University of Maryland
     details: |
-      Regional Climatology Team, Data Quality Control
-      ●	Performed quality assurance/quality control to produce a regional climatology of salinity for the Gulf of Mexico, Arctic Ocean, and Northwest Atlantic Ocean.
-      ●	Established a rich background in Gulf of Mexico, Arctic Ocean, and Northwest Atlantic Ocean physical processes.
-      ●	Developed a practical knowledge of water profile measurements and meteorological systems.
-      ●	Instituted data visualization scripts for data analysis.
-      ●	Collaborated with other team members.
-      
-      Ocean Observing Team, Data Manager
-      •	Collaborated with other team members.
-      •	Executed processing and archiving of diverse data types.
-      •	Archived observing system data.
+      Describe your role here
 
   - role: Physical Scientist
     time: 2010 - 2013
     company: Earth Resources Technology
     details: |
-      Archive Management Team, Data Content Manager
-      ●	Correspond with data providers concerning one-off data sets requested to be archived.
-      ●	Documented standard operating procedures for creating, managing and providing access to the archival collections held by NCEI.
-      ●	Expanded knowledge of oceanographic data acquisition and analysis.
-      ●	Executed processing and archiving of diverse data types.
-      ●	Translated data from proprietary formats to openly accessible formats while ensuring data integrity.
-      ●	Organized, combined, and simplified NCEI's controlled vocabulary tables.
-      ●	Assisted data providers in converting data to more archive preferred data formats. 
-
+      Describe your role here
 
 certifications:
   title: Certifications
