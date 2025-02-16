@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Mathew Biddle
   tagline: Physical Scientist
-  avatar: https://avatars.githubusercontent.com/u/8480023?v=4 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: https://github.com/mathewbiddle.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: mathew.biddle@noaa.gov
@@ -59,12 +59,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Summarise your career here 
 education:
   title: Education
   info:
