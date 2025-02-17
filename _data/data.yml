@@ -1,0 +1,237 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Mathew Biddle
+  tagline: Physical Scientist
+  avatar: https://github.com/mathewbiddle.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: mathew.biddle@gmail.com
+  phone: 
+  timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website: https://mathewbiddle.github.io/ # Include the full website URL, including "http://" or "https://".
+  linkedin: mathew-biddle
+  xing: 
+  github: mathewbiddle
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  orcid: 0000-0003-4897-1669
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Native
+
+    - idiom: Spanish
+      level: Limited Working Proficiency (ILR Level 2)
+
+  interests:
+    title: Interests
+    info:
+    - item: Climbing
+      link:
+
+    - item: Snowboarding
+      link:
+
+    - item: Surfing
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Summarise your career here 
+education:
+  title: Education
+  info:
+  - degree: MSc in Physical Oceanography
+    university: University of Maryland Center for Environmental Science (UMCES)
+    time: 2019
+    details: |
+      Thesis: Modeling impacts of submersed aquatic vegetation on sediment dynamics under storm conditions in upper Chesapeake Bay.
+        - https://doi.org/10.1007/s12237-021-00941-2
+  - degree: BSc in Oceanography, minor in Applied Mathematics
+    university: Humboldt State University
+    time: 2010
+    details: |
+      Thesis: Modeling beach erosion/accretion in northern California.
+        - Relevant coursework: Calculus I, II, III (MATH109, 110, 210), General Physics I: Mechanics (PHYX109), General Physics II: Electricity, Heat (PHYX110), Physical Oceanography (OCN320), Ordinary Differential Equations (MATH313), Introduction to Mathematical Modeling (MATH361)
+
+
+experiences:
+  title: Experiences
+  info:
+  - role: Physical Scientist
+    time: 2022 - Present
+    company: National Oceanic and Atmospheric Administration (IOOS)
+    details: |
+      Describe your role here
+  - role: Data Management Analyst
+    time: 2020 - 2022
+    company: Integrated Systems Solutions (contractor for NOAA)
+    details: |
+      Describe your role here
+
+  - role: Information Systems Associate II
+    time: 2017 - 2020
+    company: Woods Hole Oceanographic Institution
+    details: |
+      Describe your role here
+
+  - role: Faculty Specialist
+    time: 2016 - 2017
+    company: Cooperative Institute for Climate and Satellites, University of Maryland
+    details: |
+      Describe your role here
+
+  - role: Faculty Research Assistant
+    time: 2013 - 2016
+    company: Cooperative Institute for Climate and Satellites, University of Maryland
+    details: |
+      Describe your role here
+
+  - role: Physical Scientist
+    time: 2010 - 2013
+    company: Earth Resources Technology
+    details: |
+      Describe your role here
+
+certifications:
+  title: Certifications
+  list:
+  - name: Cloud and Infrastructure Community of Practice - Cloud and Data Center Fundamentals 
+    start: 2021
+    end: 2021
+    organization: 
+    credentialid: 
+    credentialurl:
+    credentialname:
+  - name: The Carpentries Instructor
+    start: 2021
+    end: 2021
+    organization: The Carpentries
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: 
+
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  # assignments:
+  # - title: Velocity
+  #   link: "#hook"
+  #   tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+  # - title: DevStudio
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help web developers/designers market their services."
+
+  # - title: Tempo
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  # - title: Atom
+  #   link: "#"
+  #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+  title: OSS Contributions
+  intro: >
+    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+  # - title: Tempo
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  # - title: Atom
+  #   link: "#"
+  #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  # papers:
+  # - title: The Art of Computer Programming
+  #   link: "#"
+  #   authors: Donald E. Knuth
+  #   conference: Addison-Wesley, 1968
+
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #   link: "#"
+  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  # - title: A syntax directed compiler for Algol 60
+  #   link: "#"
+  #   authors: Edgar T. Irons
+  #   conference: "Comm. ACM 4 (1961), 51–55"
+
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
+
+#       He is a great employee!
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Python
+    level: 95%
+
+  - name: Jupyter Notebook
+    level: 95%
+
+  - name: Matlab
+    level: 85%
+
+  - name: R
+    level: 70%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
