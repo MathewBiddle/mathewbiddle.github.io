@@ -42,7 +42,7 @@ sidebar:
       level: Native
 
     - idiom: Spanish
-      level: Professional
+      level: Limited Working Proficiency (ILR Level 2)
 
   interests:
     title: Interests
@@ -222,14 +222,16 @@ skills:
 
   toolset:
   - name: Python
-    level: 98%
+    level: 95%
 
   - name: Jupyter Notebook
-    level: 98%
+    level: 95%
+
+  - name: Matlab
+    level: 85%
 
   - name: R
-    level: 98%
-
+    level: 70%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
