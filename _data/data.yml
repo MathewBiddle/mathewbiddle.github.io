@@ -18,20 +18,21 @@ sidebar:
   timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://mathewbiddle.github.io/ # Include the full website URL, including "http://" or "https://".
-  linkedin: 
+  linkedin: mathew-biddle-803529351
   xing: 
   github: mathewbiddle
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '' # Specify your full Bluesky handle
-  twitter: ''
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
+  orcid: 0000-0003-4897-1669
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
